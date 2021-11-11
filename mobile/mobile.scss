@@ -1,7 +1,7 @@
 .mobile-view .tiles-style {
     
       tbody {
-        display: grid;
+        display: grid !important;
         grid-template-columns:repeat(auto-fill, minmax(150px,1fr));
         grid-auto-rows: auto;
       }    
