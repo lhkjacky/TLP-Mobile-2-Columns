@@ -1,4 +1,4 @@
-# TLP-Mobile-2-Columns
+# TLP-Mobile-2-Columns-Grid
 
 Topic List Previews Theme Component
 
